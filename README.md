@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Stackbuld assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react app built on typescript and bootstrap
+This porject is hosted [Here](https://stackbuld.web.app/posts/page/1).
 
-## Available Scripts
+### `Feactures`
 
-In the project directory, you can run:
+This is a simple blog project where you can:
 
-### `npm start`
+View all blog post
+View a Single Blog Post
+Edit a single Blog post
+Delete a single Blog post
+View blog post authors
+View posts by an author
+View post under a particular tag
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `NPM Packages`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+@tanstack/react-query
+@tanstack/react-query-devtools
+@tinymce/tinymce-react
+axios
+cogo-toast
+react-loader-spinner
+react-loading-skeleton
 
-### `npm test`
+Please not that the css frontend framework used is BOOTSTRAP, but is not installed as an NPM package, but insead through the Bootstrap CDN, you can check the index.html file to see importation of the cdn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Running this project locally`
 
-### `npm run build`
+To run this project on your local machine, clone this repository, delete the package-lock.json file and run "npm run build"
+then run npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you for your time.
