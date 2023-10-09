@@ -1,7 +1,7 @@
 # Stackbuld assessment
 
 This is a react app built on typescript and bootstrap
-This porject is hosted [Here](https://stackbuld.web.app/posts/page/1).
+This porject is hosted [Here](https://stackbuld.web.app).
 
 ### `Feactures`
 
