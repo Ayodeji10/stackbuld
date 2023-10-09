@@ -7,23 +7,23 @@ This porject is hosted [Here](https://stackbuld.web.app/posts/page/1).
 
 This is a simple blog project where you can:
 
-View all blog post
-View a Single Blog Post
-Edit a single Blog post
-Delete a single Blog post
-View blog post authors
-View posts by an author
-View post under a particular tag
+1. View all blog post
+2. View a Single Blog Post
+3. Edit a single Blog post
+4. Delete a single Blog post
+5. View blog post authors
+6. View posts by an author
+7. View post under a particular tag
 
 ### `NPM Packages`
 
-@tanstack/react-query
-@tanstack/react-query-devtools
-@tinymce/tinymce-react
-axios
-cogo-toast
-react-loader-spinner
-react-loading-skeleton
+1. @tanstack/react-query
+2. @tanstack/react-query-devtools
+3. @tinymce/tinymce-react
+4. axios
+5. cogo-toast
+6. react-loader-spinner
+7. react-loading-skeleton
 
 Please not that the css frontend framework used is BOOTSTRAP, but is not installed as an NPM package, but insead through the Bootstrap CDN, you can check the index.html file to see importation of the cdn
 
